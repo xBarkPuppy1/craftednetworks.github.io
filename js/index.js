@@ -6,7 +6,7 @@ $(document).ready(function() {
         interval);
 
     var refresh = function() {
-        $.getJSON("https://mcapi.ca/query/play.craftednetworkmc.tk:25040/extensive", function(json) {
+        $.getJSON("https://mcapi.ca/query/51.254.14.15:25040/extensive", function(json) {
             if (json.status !== true) {
                 $("#online").html('<span style="color: firebrick; font-weight: bolder;"> Server is Offline</span><br/><small style="font-size: .5em;">Check out our <a href="status">Associated Servers</a>!</small>');
                 $(".button").hide();
@@ -24,7 +24,7 @@ $(document).ready(function() {
 
 $(document).ready(function() {
     $('.brand-logo').typed({
-        strings: ['<small class="hide-on-med-and-down">play.</small>TotalFreedom<small class="hide-on-med-and-down">.me</small>'],
+        strings: ['<small class="hide-on-med-and-down">play.</small>craftednetworkmc<small class="hide-on-med-and-down">.tk:25040</small>'],
         typeSpeed: 30
     });
 });
