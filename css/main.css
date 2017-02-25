@@ -1,6 +1,6 @@
 * { margin: 0; padding: 0; }
 
-body { font-family: 'Raleway', sans-serif; font-weight: 300; color: #fff; background: #222 url(../images/cover-1.png) center no-repeat fixed; background-size: cover; }
+body { font-family: 'Raleway', sans-serif; font-weight: 300; color: #fff; background: #222 url(../images/cover-1.jpg) center no-repeat fixed; background-size: cover; }
 
 #rules-title, .button { -webkit-transition: all 0.2s ease; -moz-transition: all 0.2s ease; -ms-transition: all 0.2s ease; -o-transition: all 0.2s ease; transition: all 0.2s ease; z-index: 100; padding: 10px 55px; background: rgba(255, 255, 255, 0.1); color: #c8c8c8; }
 
