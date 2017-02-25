@@ -24,7 +24,7 @@ $(document).ready(function() {
 
 $(document).ready(function() {
     $('.brand-logo').typed({
-        strings: ['<small class="hide-on-med-and-down">play.</small>craftednetworkmc<small class="hide-on-med-and-down">.tk:25140</small>'],
+        strings: ['<small class="hide-on-med-and-down">51.</small>254.14.15<small class="hide-on-med-and-down">:25140</small>'],
         typeSpeed: 29
     });
 });
